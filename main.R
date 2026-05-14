@@ -19,7 +19,7 @@ config["time_stamp"] <- format(Sys.Date(), "%Y%m%d")
 logger <- DHSClogger::get_dhsc_logger()
 logger$set_threshold("log.console", "INFO")
 
-
+#test
 # Run code ----------------------------------------------------------------
 logger$info("[Running...]")
 
