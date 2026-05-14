@@ -22,7 +22,7 @@ logger$set_threshold("log.console", "INFO")
 
 # Run code ----------------------------------------------------------------
 logger$info("[Running...]")
-
+print("Hello Alberto")
 print("Hello world!")
 
 logger$info("[...Finished]")
